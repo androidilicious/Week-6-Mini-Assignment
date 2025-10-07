@@ -6,6 +6,8 @@ This project demonstrates working with a SQLite database containing university r
 
 - `university_database.db`: The SQLite database containing university rankings data
 - `university_rankings.ipynb`: Jupyter notebook containing all the database operations
+
+- `university_queries.sql`: SQL Queries
 - `README.md`: Project documentation
 
 ## Database Operations Performed
